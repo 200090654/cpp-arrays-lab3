@@ -20,6 +20,25 @@ using namespace std;
 
 int main()
 {
+	int numbers[5];
+	int x;
+
+	/*int a;
+	int b;
+	int c;
+	int d;
+	int e;*/
+
+	cout << "Enter 5 numbers: ";
+	while (int i < 5)
+	{
+
+	}
+
+	int arr[5] = {a, b, c, d, e };
+
+	//cout << arr[e] << arr[d] << arr[c] << arr[b] << arr[a];
+
 
 
 	_getch();
